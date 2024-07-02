@@ -147,7 +147,7 @@ a {
     cursor: pointer;
 }
 
-.bigButton:active, .hidden:active {
+.bigButton:active, .hidden:active, .hide:active {
     scale: .98;
 }
 
